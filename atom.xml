@@ -43,15 +43,15 @@
     <link href="https://hanslin99.github.io/hansylin/2019/06/29/queueGenerator/"/>
     <id>https://hanslin99.github.io/hansylin/2019/06/29/queueGenerator/</id>
     <published>2019-06-29T12:03:26.000Z</published>
-    <updated>2019-07-08T15:17:32.433Z</updated>
+    <updated>2019-07-17T18:39:50.598Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Link to this project: <a href="https://github.com/HansLin99/QueueGenerator" title="Project" target="_blank" rel="noopener">QueueGenerator</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#
+        &lt;p&gt;Link to this project: &lt;a href=&quot;https://github.com/HansLin99/QueueGenerator&quot; title=&quot;Project&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;QueueGenerator
       
     
     </summary>
@@ -59,14 +59,16 @@
       <category term="Projects" scheme="https://hanslin99.github.io/hansylin/categories/Projects/"/>
     
     
+      <category term="Java" scheme="https://hanslin99.github.io/hansylin/tags/Java/"/>
+    
   </entry>
   
   <entry>
-    <title>aboutme</title>
+    <title>Me</title>
     <link href="https://hanslin99.github.io/hansylin/2019/06/29/About/"/>
     <id>https://hanslin99.github.io/hansylin/2019/06/29/About/</id>
     <published>2019-06-29T05:35:20.000Z</published>
-    <updated>2019-06-29T05:35:20.056Z</updated>
+    <updated>2019-07-17T18:41:26.875Z</updated>
     
     <summary type="html">
     
