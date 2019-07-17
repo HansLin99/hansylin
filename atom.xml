@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hansy</title>
+  <title>Hans</title>
   
   <subtitle>Computer Science and Mathematics</subtitle>
   <link href="/hansylin/atom.xml" rel="self"/>
   
   <link href="https://hanslin99.github.io/hansylin/"/>
-  <updated>2019-07-08T15:17:32.433Z</updated>
+  <updated>2019-07-17T07:40:27.349Z</updated>
   <id>https://hanslin99.github.io/hansylin/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Day</title>
+    <link href="https://hanslin99.github.io/hansylin/2019/07/17/AFunDay/"/>
+    <id>https://hanslin99.github.io/hansylin/2019/07/17/AFunDay/</id>
+    <published>2019-07-17T06:04:49.000Z</published>
+    <updated>2019-07-17T07:40:27.349Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="有意义的一天"><a href="#有意义的一天" class="headerlink" title="有意义的一天"></a>有意义的一天</h1><p>这条  <strong>很大的</strong> Po 是用来记录我过的充实的一天以及检测我是否能写出一条稍微 <del>丰富</del> (简陋)一点的文章的!</p><a id="more"></a><h2 id="首驾"><a href="#首驾" class="headerlink" title="首驾"></a>首驾</h2><p>今天是我自7月15日拿到驾照的第一次独自驾车(16号开我爸的车只是简单的热热手).</p><p>我想分享下第一次开车的体验吧.</p><ul><li>车型及共享汽车体验</li><li>路况</li><li>进步</li><li>总结</li></ul><h3 id="车型及共享汽车体验"><a href="#车型及共享汽车体验" class="headerlink" title="车型及共享汽车体验"></a>车型及共享汽车体验</h3><p>首先来讲讲我开的小车车吧! 由于国内的共享汽车还是不够成熟, 我能选到的停车场(取车地)距离家1km左右.<br>由于他必须要在预定的后的15分钟上车, 我只能快到地方了再预定. 谁知, 倒地的前一分钟车被别人订走了.<br>本来是一个4门的 <strong><em>大众Polo</em></strong> , 后来没办法只能选一辆小 <strong><em>Smart</em></strong> 了.</p><hr><p>这车的第一感觉就是: 天哪! 这怠速响应怎么这么慢, 一点都不线性, 刹车全松了要过整整一秒车才会动!跑起来以后的确是跟朋友说的一样, 踩着地板油没有啥反应. 除此之外, 不得不吐槽一下 <strong><em>GoFun</em></strong> 对于<br>油车的收费实在是坑爹, 要加收1.29元/公里. 电车就是只用收取0.3元/分钟, 并不限制里程. 并没有倒车雷达…</p><p>最要命的是还车的地方特别不固定, 我到第一个还车点的时候还停满了只能前往下一个.<br>还车的地方距离我的目的地有个1.5km的样子. 那为啥不坐地铁/打滴滴?</p><p>总而言之就是在广州如果要出行的话就没必要考虑共享汽车了. 坐地铁吧~</p><hr><p>吐槽了这么多, 这车到底有啥优点呢… 不知道… 方向盘挺轻的… 感觉并不是一辆值得买的车吧.</p><h3 id="路况"><a href="#路况" class="headerlink" title="路况"></a>路况</h3><p>广州的路况还是对开车的人很不友好的(<strong><em>尤其是新手</em></strong>). 大部分车的素质都很差, 疯狂变道疯狂加塞. 为了安全,<br>我也是只能让他们了, 反正也不差这一点时间. 道路规划也是非常奇怪, 很多的环形路很多的立交, 我看着导航<br>都开错了两次路.</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;有意义的一天&quot;&gt;&lt;a href=&quot;#有意义的一天&quot; class=&quot;headerlink&quot; title=&quot;有意义的一天&quot;&gt;&lt;/a&gt;有意义的一天&lt;/h1&gt;&lt;p&gt;这条  &lt;strong&gt;很大的&lt;/strong&gt; Po 是用来记录我过的充实的一天以及检测我是否能写出一条稍微 &lt;del&gt;丰富&lt;/del&gt; (简陋)一点的文章的!&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Others" scheme="https://hanslin99.github.io/hansylin/categories/Others/"/>
+    
+    
+      <category term="Daily" scheme="https://hanslin99.github.io/hansylin/tags/Daily/"/>
+    
+  </entry>
   
   <entry>
     <title>QueueGenerator</title>
@@ -43,7 +65,7 @@
     <title>aboutme</title>
     <link href="https://hanslin99.github.io/hansylin/2019/06/29/About/"/>
     <id>https://hanslin99.github.io/hansylin/2019/06/29/About/</id>
-    <published>2019-06-29T04:35:20.000Z</published>
+    <published>2019-06-29T05:35:20.000Z</published>
     <updated>2019-06-29T05:35:20.056Z</updated>
     
     <summary type="html">
