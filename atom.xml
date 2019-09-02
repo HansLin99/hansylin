@@ -6,7 +6,7 @@
   <link href="/hansylin/atom.xml" rel="self"/>
   
   <link href="https://hanslin99.github.io/hansylin/"/>
-  <updated>2019-09-01T17:26:46.695Z</updated>
+  <updated>2019-09-02T17:13:39.510Z</updated>
   <id>https://hanslin99.github.io/hansylin/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="https://hanslin99.github.io/hansylin/2019/09/01/ImagePlayer/"/>
     <id>https://hanslin99.github.io/hansylin/2019/09/01/ImagePlayer/</id>
     <published>2019-09-01T17:26:17.000Z</published>
-    <updated>2019-09-01T17:26:46.695Z</updated>
+    <updated>2019-09-02T17:13:39.510Z</updated>
+    
+    <content type="html"><![CDATA[<p>Link to this project <img src="https://github.com/HansLin99/ImagePlayer" alt="ImagePlayer"></p><h1 id="First-meet-with-image-and-pixels"><a href="#First-meet-with-image-and-pixels" class="headerlink" title="First meet with image and pixels"></a>First meet with image and pixels</h1>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;Link to this project &lt;img src=&quot;https://github.com/HansLin99/ImagePlayer&quot; alt=&quot;ImagePlayer&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;First-meet-with-image-and-pixels&quot;
+      
     
     </summary>
     
@@ -61,16 +69,16 @@
     <link href="https://hanslin99.github.io/hansylin/2019/06/29/queueGenerator/"/>
     <id>https://hanslin99.github.io/hansylin/2019/06/29/queueGenerator/</id>
     <published>2019-06-30T03:03:26.000Z</published>
-    <updated>2019-09-01T15:24:38.755Z</updated>
+    <updated>2019-09-01T17:45:28.347Z</updated>
     
-    <content type="html"><![CDATA[<p>Link to this project: <a href="https://github.com/HansLin99/QueueGenerator" target="_blank" rel="noopener">QueueGenerator</a></p>]]></content>
+    <content type="html"><![CDATA[<p>Link to this project: <a href="https://github.com/HansLin99/QueueGenerator" target="_blank" rel="noopener">QueueGenerator</a></p><p>You can find description and usage in Github. I will only post my stories with it here.</p><hr><p>Although you may find the project simple and small, this is my first project experience in CS field.</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;Link to this project: &lt;a href=&quot;https://github.com/HansLin99/QueueGenerator&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;QueueGenerator&lt;/a&gt;&lt;/p&gt;
-
+&lt;p&gt;You 
       
     
     </summary>
